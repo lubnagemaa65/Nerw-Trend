@@ -1,4 +1,4 @@
-# udemy
+# New Trend
 
 A new Flutter project.
 
